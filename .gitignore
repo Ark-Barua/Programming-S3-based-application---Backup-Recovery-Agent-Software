@@ -1,0 +1,6 @@
+.env
+*.pem
+*.key
+__pycache__/
+s3_operations_backup.py
+aws_credentials.json
