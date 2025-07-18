@@ -1,5 +1,3 @@
-Certainly! Here’s a **README.md** file based on your project description:
-
 # AWS S3 Automation System with GUI
 
 Automated File Management and Backup System using AWS S3
